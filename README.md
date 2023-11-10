@@ -81,6 +81,9 @@ for calculations for the potential field planner.
 ```bash
 git clone https://github.com/abdurj/Local-Planner-Visualization-Project.git
 ```
+1.A 
+open in vscode, and click on "reopen in devcontainer".  If you don't use vscode then you can install manually with:
+
 2. Install Dependencies 
 ```bash
 cd Local-Planner-Visualization-Project
